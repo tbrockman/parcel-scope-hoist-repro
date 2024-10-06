@@ -6,4 +6,4 @@ To run (just creates a production/scope-hoisted build and serves it):
 pnpm repro
 ```
 
-and visit [`http://localhost:1234`](http://localhost:1234) (or wherever you've started the server).
+and visit [`http://localhost:1234`](http://localhost:1234) (or wherever you've started the server), then inspect the error in the developer console.
